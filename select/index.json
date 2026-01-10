@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ノクティルーカ（feat. IA）",
+  "base_artist": "Orangestar",
+  "createdAt": "2026-01-10T20:17:02.893095Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノクティルーカ (feat. IA)",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_ノクティルーカ_(feat._IA)_Orangestar.txt"
+    }
+  ]
+}
